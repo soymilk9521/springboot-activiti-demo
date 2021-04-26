@@ -16,7 +16,7 @@
         <junit.version>4.12</junit.version>
         <mybatis.version>3.4.5</mybatis.version>
         <dbcp.version>1.4</dbcp.version>
-        <commonsio.version>2.6</commonsio.version>
+        <commonsio.version>2.7</commonsio.version>
     </properties>
     <dependencies>
         <dependency>
